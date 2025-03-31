@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "28358000000011004",
+      "name": "RansomwareAttacks",
+      "domain": {
+        "id": "10097688086",
+        "name": "ransomwareattacks-883379939.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "883379939",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

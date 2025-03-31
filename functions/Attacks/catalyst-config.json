@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "Attacks",
+		"stack": "java8",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "GetAttacks"
+	}
+}

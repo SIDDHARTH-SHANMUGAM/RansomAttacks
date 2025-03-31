@@ -1,0 +1,17 @@
+{
+  "client": {
+    "source": "ransom-attacks",
+    "plugin": "zcatalyst-cli-plugin-react"
+  },
+  "functions": {
+    "targets": [
+      "Cron",
+      "Attacks",
+      "demo"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  }
+}
